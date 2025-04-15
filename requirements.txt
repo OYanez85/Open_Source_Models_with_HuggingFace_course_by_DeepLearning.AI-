@@ -1,0 +1,11 @@
+transformers>=4.38.2
+datasets>=2.19.1
+torch>=2.2.1
+scipy
+numpy
+pillow
+ipykernel
+soundfile
+librosa
+gradio
+notebook
