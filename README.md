@@ -56,4 +56,9 @@ These notebooks helped me build a strong foundation for tackling real-world mach
 
 ## 🚀 Next Steps
 
-I'll
+I'll be refining these notebooks and extending them for Kaggle challenges, adding model evaluation, data augmentation, and submission pipelines.
+
+---
+
+📬 Feel free to fork, explore, or reach out if you're taking the course or preparing for similar competitions!
+
